@@ -18,7 +18,7 @@ class App extends Component {
         console.log(json)
       })
       .then((result) =>{
-        this.setState([result])
+        this.setState({result})
       })
     }
   render() {
@@ -31,7 +31,7 @@ class App extends Component {
         </header>
         <main>
           <p>voici ma liste : </p> 
-          <ul>{this.state.data.map}</ul>
+          <ul><li>{this.state.result[0].id}</li></ul>
           <button onClick={() => console.log(`Bonjour !`)}>
             Trier
           </button>
