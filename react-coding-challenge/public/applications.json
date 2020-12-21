@@ -1,0 +1,330 @@
+[
+  {
+    "id": "alencon",
+    "image": "gs://holomouseio-staging.appspot.com/applications/alencon/Icones_Xe_Bleu.png",
+    "title": "alencon",
+    "owner": "Ng6ZgL5chKhFGumkVlLCAq9uksm1",
+    "languages": [
+      {
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/french_flag.svg",
+        "name": "fr"
+      },
+      {
+        "name": "en",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/english_flag.svg"
+      },
+      {
+        "name": "es",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Flag_of_Spain.svg"
+      }
+    ],
+    "video": "gs://holomouseio-staging.appspot.com/applications/alencon/Alençon_Veille.mp4",
+    "layouts": [
+      "Timeline"
+    ],
+    "categories": [
+      {
+        "name": "Alençon un site de passage",
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1170_Boucle.mp4",
+        "lang": "fr",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_Xe_Bleu.png"
+      },
+      {
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1280_Boucle.mp4",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XIIe_Bleu.png",
+        "lang": "fr",
+        "name": "Le contrôle des marches"
+      },
+      {
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1440_Boucle.mp4",
+        "name": "La cité sous l'occupation anglaise",
+        "lang": "fr",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XIVe_Bleu.png"
+      },
+      {
+        "lang": "fr",
+        "name": "Une transition difficile",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XVIe_Bleu.png",
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1500_Boucle.mp4"
+      },
+      {
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XVIIe_Bleu.png",
+        "lang": "fr",
+        "name": "La Restauration de l'autorité ducale",
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1525_Boucle.mp4"
+      },
+      {
+        "lang": "fr",
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_2020_Boucle.mp4",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icon_XIX_Bleu_Fonce.png",
+        "name": "Le déclin du duché et le développement de la ville moderne"
+      },
+      {
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_Xe_Bleu.png",
+        "name": "Alencon a passageway ",
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1170_Boucle.mp4",
+        "lang": "en"
+      },
+      {
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1280_Boucle.mp4",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XIIe_Bleu.png",
+        "name": "Controlling the marches",
+        "lang": "en"
+      },
+      {
+        "name": "The city under English occupation",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XIVe_Bleu.png",
+        "lang": "en",
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1440_Boucle.mp4"
+      },
+      {
+        "lang": "en",
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1500_Boucle.mp4",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XVIe_Bleu.png",
+        "name": "A difficult transition"
+      },
+      {
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XVIIe_Bleu.png",
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1525_Boucle.mp4",
+        "lang": "en",
+        "name": "The Restoration of Ducal Authority"
+      },
+      {
+        "name": "The decline of the duchy and the development of the modern city",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icon_XIX_Bleu_Fonce.png",
+        "lang": "en",
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_2020_Boucle.mp4"
+      },
+      {
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1170_Boucle.mp4",
+        "name": "Alençon un sitio de cruce",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_Xe_Bleu.png",
+        "lang": "es"
+      },
+      {
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1280_Boucle.mp4",
+        "lang": "es",
+        "name": "El control de las marcas",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XIIe_Bleu.png"
+      },
+      {
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1440_Boucle.mp4",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XIVe_Bleu.png",
+        "lang": "es",
+        "name": "La ciudad bajo ocupación inglesa"
+      },
+      {
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XVIe_Bleu.png",
+        "name": "Una transición difícil",
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1500_Boucle.mp4",
+        "lang": "es"
+      },
+      {
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icones_XVIIe_Bleu.png",
+        "name": "La restauración de la autoridad ducal",
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_1525_Boucle.mp4",
+        "lang": "es"
+      },
+      {
+        "video": "gs://holomouseio.appspot.com/applications/alencon/Alençon_Rendu_2020_Boucle.mp4",
+        "lang": "es",
+        "thumb": "gs://holomouseio.appspot.com/applications/alencon/Icon_XIX_Bleu_Fonce.png",
+        "name": "La decadencia del ducado y el desarrollo de la ciudad moderna"
+      }
+    ],
+    "styles": "gs://holomouseio-staging.appspot.com/applications/alencon/alençon.css",
+    "timeout": 300000
+  },
+  {
+    "id": "allusion",
+    "title": "Allusion",
+    "layouts": [
+      "Wiki"
+    ],
+    "owner": "M9Yq4j1YVBfx0xbzEavfwz3ORcB2"
+  },
+  {
+    "id": "cmne",
+    "image": "gs://holomouseio-staging.appspot.com/applications/cmne/CreditMutuel_Application_Screen_Appartements_T2.png",
+    "video": "gs://holomouseio-staging.appspot.com/applications/cmne/Accueil.mp4",
+    "categories": [
+      {
+        "name": "Voitures",
+        "thumb": "gs://holomouseio.appspot.com/applications/cmne/icon_cars.png",
+        "video": "gs://holomouseio.appspot.com/applications/cmne/Accueil_voitures.mp4"
+      },
+      {
+        "thumb": "gs://holomouseio.appspot.com/applications/cmne/icon_batiment.png",
+        "name": "Immobilier"
+      },
+      {
+        "thumb": "gs://holomouseio.appspot.com/applications/cmne/icon_health.png",
+        "name": "Santé"
+      },
+      {
+        "name": "Immobilier Commercial",
+        "thumb": "gs://holomouseio.appspot.com/applications/cmne/icon_batiment.png"
+      }
+    ],
+    "layouts": [
+      "Base"
+    ]
+  },
+  {
+    "id": "egger",
+    "layouts": [
+      "Base"
+    ],
+    "image": "gs://holomouseio-staging.appspot.com/applications/egger/general.png",
+    "video": "gs://holomouseio-staging.appspot.com/applications/egger/EGGER_GLOBAL_V2_intra_hd.mp4",
+    "theme": {},
+    "defaultPage": "general"
+  },
+  {
+    "id": "handycom",
+    "image": "gs://holomouseio-staging.appspot.com/applications/handycom/bacchante.png",
+    "categories": [],
+    "layouts": [
+      "Base"
+    ],
+    "title": "handycom",
+    "passcode": "",
+    "video": "gs://holomouseio-staging.appspot.com/applications/handycom/2018_BYIM_quartz_elec.mp4"
+  },
+  {
+    "id": "holodemo",
+    "image": "gs://holomouseio-staging.appspot.com/applications/holodemo/fond_H.png",
+    "title": "holodemo",
+    "categories": [
+      {
+        "name": "Marques",
+        "thumb": "gs://holomouseio.appspot.com/applications/holodemo/H-seul-fond blanc.png"
+      },
+      {
+        "name": "Culture",
+        "thumb": "gs://holomouseio.appspot.com/applications/holodemo/pid_croix_blanc.png"
+      }
+    ],
+    "layouts": [
+      "Base",
+      "Wiki"
+    ],
+    "owner": "nWUUnYmNozNrd2IBDln1WNWAuXo2",
+    "theme": {
+      "brandPrimary": "#007aff",
+      "fontSizeH1": 43
+    }
+  },
+  {
+    "id": "holomouseio-lille",
+    "layouts": [
+      "Wiki"
+    ],
+    "categories": [
+      {
+        "thumb": "gs://holomouseio.appspot.com/applications/holomouseio-lille/SPBANT33.jpg",
+        "video": "gs://holomouseio.appspot.com/applications/holomouseio-lille/montage.mp4",
+        "name": "Collection égyptienne"
+      },
+      {
+        "thumb": "gs://holomouseio.appspot.com/applications/holomouseio-lille/2800bis.jpg",
+        "video": "gs://holomouseio.appspot.com/applications/holomouseio-lille/2800bis.mp4",
+        "name": "Pied de croix de l'abbaye Saint-Bertin"
+      },
+      {
+        "name": "Promenade dans la forêt du Carbonifère du Nord de la France",
+        "thumb": "gs://holomouseio.appspot.com/applications/holomouseio-lille/04_pteridospermaphyta_3.jpg",
+        "video": "gs://holomouseio.appspot.com/applications/holomouseio-lille/04_pteridospermaphyta_3.mp4"
+      }
+    ],
+    "image": "gs://holomouseio-staging.appspot.com/applications/holomouseio-lille/08_theodolite.jpg",
+    "video": "gs://holomouseio-staging.appspot.com/applications/holomouseio-lille/montage.mp4"
+  },
+  {
+    "id": "les_residences_du_terroir",
+    "title": "Les_residences_du_terroir",
+    "layouts": [
+      "Base"
+    ],
+    "categories": [
+      {
+        "video": "gs://holomouseio.appspot.com/applications/les_residences_du_terroir/360.mp4",
+        "name": "Les Résidences du Terroir",
+        "thumb": "gs://holomouseio.appspot.com/applications/les_residences_du_terroir/placeholder_fondDePage.jpg"
+      }
+    ],
+    "owner": "ProhWTb9wXc9NwtfJEDVzx1r0hh2",
+    "video": "gs://holomouseio-staging.appspot.com/applications/les_residences_du_terroir/videoPresentation.mp4",
+    "image": "gs://holomouseio-staging.appspot.com/applications/les_residences_du_terroir/placeholder_fondDePage.jpg"
+  },
+  {
+    "id": "ory-nbt",
+    "owner": "M9Yq4j1YVBfx0xbzEavfwz3ORcB2",
+    "categories": [
+      {
+        "name": "Architecture",
+        "thumb": "gs://holomouseio.appspot.com/applications/ory-nbt/ARCHI_01_Ensemble.png"
+      },
+      {
+        "thumb": "gs://holomouseio.appspot.com/applications/ory-nbt/METIERS_01_Ensemble.png",
+        "name": "Métiers"
+      },
+      {
+        "name": "Réseaux",
+        "thumb": "gs://holomouseio.appspot.com/applications/ory-nbt/VMC_Illustration.png"
+      }
+    ],
+    "title": "ORY-NBT",
+    "layouts": [
+      "Base"
+    ],
+    "image": "gs://holomouseio-staging.appspot.com/applications/ory-nbt/ARCHI_01_Ensemble.png"
+  },
+  {
+    "id": "placeholder",
+    "layouts": [
+      "Base"
+    ],
+    "title": "placeHolder",
+    "owner": "IKqWEkKHDreGlTDDGgtCdUaWqRZ2"
+  },
+  {
+    "id": "placeholder_2",
+    "title": "placeHolder_2",
+    "layouts": [
+      "Timeline"
+    ],
+    "owner": "IKqWEkKHDreGlTDDGgtCdUaWqRZ2"
+  },
+  {
+    "id": "st-omer",
+    "owner": "Ng6ZgL5chKhFGumkVlLCAq9uksm1",
+    "image": "gs://holomouseio-staging.appspot.com/applications/st-omer/croix.jpg",
+    "layouts": [
+      "Wiki"
+    ],
+    "video": "gs://holusion-divers.appspot.com/st-omer/intro_stO.mp4",
+    "theme": {
+      "brandSecondary": "#FF9966FF",
+      "brandPrimary": "#00A5E8FF",
+      "fontFamilyH1": "CgBernhardtMd"
+    }
+  },
+  {
+    "id": "testflight",
+    "title": "testflight",
+    "owner": "F79lmjSWWrR6AVooVPdsZqPcHs03",
+    "layouts": [
+      "Base"
+    ]
+  },
+  {
+    "id": "xperium",
+    "image": "gs://holomouseio-staging.appspot.com/applications/xperium/Maquette_Appli_Ecran00_V2.jpg",
+    "owner": "Ng6ZgL5chKhFGumkVlLCAq9uksm1",
+    "title": "xperium",
+    "layouts": [
+      "Base"
+    ]
+  }
+]
