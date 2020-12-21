@@ -5,22 +5,22 @@ import './App.css';
 
 class App extends Component {
 
-  constructor(props) {
-    super(props);
-    this.state = {
-      data: null,
-    };
-  }
+  state = {
+      data: []
+    }
 
   componentDidMount(){
     fetch('applications.json')
       .then((response) =>{
         return response.json()
       })
-      .then(data => console.log(data))
-      .then(data => this.setState({state: data}))
-  };
-
+      .then((json) => {
+        console.log(json)
+      })
+      .then((result) =>{
+        this.setState([result])
+      })
+    }
   render() {
     
     return (
@@ -31,7 +31,7 @@ class App extends Component {
         </header>
         <main>
           <p>voici ma liste : </p> 
-          
+          <ul>{this.state.data.map}</ul>
           <button onClick={() => console.log(`Bonjour !`)}>
             Trier
           </button>
